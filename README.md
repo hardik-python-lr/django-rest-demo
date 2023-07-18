@@ -8,6 +8,7 @@
 - Django Rest Framework
 - PostgreSQL
 - Swagger (for API documentation)
+- DJangoDebugToolBar (for debugging and optimization)
 
 ### Steps to setup the project
 
