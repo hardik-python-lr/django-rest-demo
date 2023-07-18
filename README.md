@@ -1,4 +1,3 @@
-
 # Visitor Management
 
 ### Technology Used
@@ -8,6 +7,7 @@
 - Rest API
 - Django Rest Framework
 - PostgreSQL
+- Swagger (for API documentation)
 
 ### Steps to setup the project
 
